@@ -1,0 +1,15 @@
+bot_prefix: "!"
+token: "ODU1NTMwODA1NTcxNzQ3ODgw.YMz1Jw.I8itZcGlgqMOuehGhe1T0Th0g1g"
+application_id: "855530805571747880"
+owners:
+  - 770985298104549426
+blacklist:
+  - 8768768768
+main_color: 0xf3bf0b
+error: 0xE02B2B
+success: 0xf3bf0b
+warning: 0xF59E42
+info: 0x4299F5
+punish: 0xFF3E00
+
+bot_name: AI1
